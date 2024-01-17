@@ -1,2 +1,2 @@
 tabs: ['README.md']
-run-button: node /server/index.js
+run-button: node ./server/index.js
